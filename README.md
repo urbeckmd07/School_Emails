@@ -9,3 +9,5 @@ When a school name is clicked, a new page is opened that shows each contact. The
 - White Email Button: I have not emailed them yet.
 - Red "X" Button: I have emailed them but they have not replied.
 - Green Checkmark Button: I have emailed them and they have replied.
+
+* A demo will be added on the evening of Nov 9, 2022.
