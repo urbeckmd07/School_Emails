@@ -1,0 +1,29 @@
+.schoolContacts__container {
+    margin-bottom: 14%;
+}
+
+.schoolContacts__contactGroup {
+    display: flex;
+    margin: 0 auto;
+    max-width: 1200px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.schoolContacts__arrows {
+    display: flex;
+}
+
+.schoolContacts__arrowsPrevious {
+    position: fixed;
+    left: 60px;
+    bottom: 100px;
+    transform: scale(1.4);
+}
+
+.schoolContacts__arrowsNext {
+    position: fixed;
+    right: 60px;
+    bottom: 100px;
+    transform: scale(1.4);
+}

@@ -1,0 +1,17 @@
+.schoolTitle__container {
+    height: 90px;
+    background-color: white;
+    width: fit-content;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 1px 2px lightgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 25px;
+}
+
+.schoolTitle__container > h1{
+    font-weight: 400;
+}

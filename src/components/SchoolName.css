@@ -1,0 +1,15 @@
+.schoolName__container {
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 6px;
+    box-shadow: 1px 2px lightgray;
+    margin-right: 30px;
+}
+
+.schoolName__container:hover {
+    cursor: pointer;
+}
+
+.schoolName__container > h1 {
+    font-weight: 300;
+}

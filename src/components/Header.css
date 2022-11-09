@@ -1,0 +1,55 @@
+.headerContainer {
+    background-color: #007ACC;
+    color: white;
+    display: flex;
+    padding: 10px 40px 10px 50px;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+
+.header__left {
+    display: flex;
+    align-items: center;
+}
+
+.header__icon {
+    padding-right: 20px;
+    transform: scale(1.4);
+}
+
+.header__title {
+    font-weight: 400;
+}
+
+.header__home {
+    font-weight: 200;
+    padding: 10px 30px;
+}
+
+.header__home:hover {
+    color: lightgray;
+}
+
+.header__scroll {
+    font-weight: 200;
+    padding: 10px 30px;
+    border-right: 1px solid white;
+    width: fit-content;
+}
+
+.header__scroll:hover {
+    color: lightgray;
+}
+
+.header__right {
+    display: flex;
+    width: 250px;
+    position: absolute;
+    right: 130px;
+}
+
+.header__right:hover {
+    cursor: pointer;
+}

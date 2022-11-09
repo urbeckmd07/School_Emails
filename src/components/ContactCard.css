@@ -1,0 +1,21 @@
+.contactCard__container {
+    display: flex;
+    background-color: white;
+    width: fit-content;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 2px lightgray;
+    margin: 30px;
+}
+
+.schoolContacts__contactCardLeft {
+    margin-right: 50px;
+}
+
+.schoolContacts__contactCardLeft > h2 {
+    font-weight: 500;
+}
+
+.schoolContacts__contactCardRight {
+    z-index: 0;
+}

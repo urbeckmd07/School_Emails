@@ -1,0 +1,11 @@
+.footer__container {
+    background-color: #007ACC;
+    padding: 10px;
+    color: white;
+    position: "sticky";
+}
+
+.footer__container > h5 {
+    font-weight: 400;
+    padding-left: 50%;
+}
